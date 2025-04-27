@@ -1,6 +1,6 @@
 # App Web de Anuncios de Venta de Coches 🚗
 ## Vista previa:
-![¡Así se ve la landing page del proyecto!]()
+![¡Así se ve la landing page del proyecto!](https://raw.githubusercontent.com/MrHEmilio/vehicles_env/refs/heads/emilio/assets/Captura%20de%20pantalla%202025-04-26%20a%20la(s)%2019.19.31.png)
 
 Este proyecto consiste en el desarrollo de una aplicación web sencilla utilizando **Streamlit**, con el objetivo de practicar habilidades esenciales de ingeniería de software como:
 - Creación y gestión de entornos virtuales de Python

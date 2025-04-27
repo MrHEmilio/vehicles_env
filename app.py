@@ -31,3 +31,6 @@ if disp_button:
     st.write('Gráfico de dispersión para el conjunto de datos de anuncios de ventas de coches')
     fig = px.scatter(car_data, x='odometer', y='price')
     st.plotly_chart(fig, use_container_width=True)
+
+st.write('Autor: Heber Ramos (¡Emilio para los amigos! 🦖)')
+

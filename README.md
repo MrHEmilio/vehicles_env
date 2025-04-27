@@ -1,4 +1,6 @@
 # App Web de Anuncios de Venta de Coches 🚗
+## Vista previa:
+![¡Así se ve la landing page del proyecto!]()
 
 Este proyecto consiste en el desarrollo de una aplicación web sencilla utilizando **Streamlit**, con el objetivo de practicar habilidades esenciales de ingeniería de software como:
 - Creación y gestión de entornos virtuales de Python
@@ -9,7 +11,7 @@ Este proyecto consiste en el desarrollo de una aplicación web sencilla utilizan
 ## Descripción del Proyecto
 
 La app permite:
-- Construir un **histograma** de de la opción que se seleccione para los vehículos anunciados.
+- Construir un **histograma** desde de la opción que se seleccione para los vehículos anunciados.
 - Construir un **gráfico de dispersión** entre la distancia recorrida (`odometer`) y el precio (`price`).
 
 Se utilizan las siguientes herramientas:
